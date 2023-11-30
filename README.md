@@ -29,7 +29,9 @@ I'm recently graduated from my master study in August 2023, and actively looking
 | Projects | Description | Published | Sources |
 | --- | --- | --- | --- |
 | Dicoding Image Classification | Simple image classification within Dicoding submission | No | [Link](https://github.com/priaJuli/Project-ML-Dicoding/blob/master/Dicoding_Image_Project.ipynb) |
-| Dicoding News Classification | News classification within category of news | No | [Link](https://github.com/priaJuli/Project-ML-Dicoding/blob/master/News_NLP_Dicoding.ipynb) |
+| Dicoding News Classification | News classification within category of news (submission) | No | [Link](https://github.com/priaJuli/Project-ML-Dicoding/blob/master/News_NLP_Dicoding.ipynb) |
+| Dicoding Time-Series Classification | Climate daily classification (submission) | No | [Link](https://github.com/priaJuli/Project-ML-Dicoding/blob/master/Time_series_submission_Dicoding_Climate_IDN.ipynb) |
+| Time-Scale Modification Phase Vocoder for Accent Recognition | Modification of speech speed of speech text-based for Accent Recognition | Yes | [Paper](https://ieeexplore.ieee.org/document/10295321/) |
 
 ## Top Languages Programming Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaJuli&langs_count=8&layout=compact)](https://github.com/priaJuli/github-readme-stats)
