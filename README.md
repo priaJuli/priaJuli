@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Pria Malau 👋
 
 <!--
 **priaJuli/priaJuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm recently graduated from my master study in August 2023, and actively looking for job in the field of AI or Machine Learning Engineer.
+
+- 🔭 I'm currently looking for job.
+- 🌱 I'm actively writing papers and doing experiment in the field of machine learning.
+- 👯 I’m looking to collaborate on machine learning or AI projects.
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: [MyLinkedIn](https://www.linkedin.com/in/pria-juliade-malau-434116200/)
+- 😄 Pronouns: He/Him
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaJuli)](https://github.com/priaJuli/github-readme-stats)
+
