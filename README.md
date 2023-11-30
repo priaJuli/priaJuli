@@ -24,5 +24,13 @@ I'm recently graduated from my master study in August 2023, and actively looking
 - 📫 How to reach me: [MyLinkedIn](https://www.linkedin.com/in/pria-juliade-malau-434116200/)
 - 😄 Pronouns: He/Him
 
+## Research Interest
+
+| Projects | Description | Published | Sources |
+| --- | --- | --- | --- |
+| Dicoding Image Classification | Simple image classification within Dicoding submission | No | [Link](https://github.com/priaJuli/Project-ML-Dicoding/blob/master/Dicoding_Image_Project.ipynb) |
+| Dicoding News Classification | News classification within category of news | No | [Link](https://github.com/priaJuli/Project-ML-Dicoding/blob/master/News_NLP_Dicoding.ipynb) |
+
+## Top Languages Programming Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaJuli&langs_count=8&layout=compact)](https://github.com/priaJuli/github-readme-stats)
 
