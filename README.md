@@ -24,5 +24,5 @@ I'm recently graduated from my master study in August 2023, and actively looking
 - 📫 How to reach me: [MyLinkedIn](https://www.linkedin.com/in/pria-juliade-malau-434116200/)
 - 😄 Pronouns: He/Him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaJuli)](https://github.com/priaJuli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaJuli&langs_count=8)](https://github.com/priaJuli/github-readme-stats)
 
