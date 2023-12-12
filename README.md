@@ -33,6 +33,47 @@ I'm recently graduated from my master study in August 2023, and actively looking
 | Dicoding Time-Series Classification | Climate daily classification (submission) | No | [Link](https://github.com/priaJuli/Project-ML-Dicoding/blob/master/Time_series_submission_Dicoding_Climate_IDN.ipynb) |
 | Time-Scale Modification Phase Vocoder for Accent Recognition | Modification of speech speed of speech text-based for Accent Recognition | Yes | [Paper](https://ieeexplore.ieee.org/document/10295321/) |
 
+## Algorithms Experience
+
+Classification
+1. K-NN
+2. Logistic Regression
+3. SVM ( Linear & Non-Linear)
+4. Stochastic Gradient Descent
+5. Decision Tree
+6. Naive bayes
+
+Neural network (Keras, Pytorch, custom)
+1. ANN Backpropagation
+2. CNN
+3. Bidirectional LSTM
+4. MLP
+
+Ensemble 
+1. Voting Algorithm
+2. Stacking Algorithm
+3. Random Forest
+
+Regression
+1. Linear Regression
+2. MLP Regressor
+
+Other Algorithms 
+1. Mel Frequency Cepstral Coefficient (MFCC) for Audio/Speech
+2. Spectrograms / Melspectrogram for Audio/Speech
+3. Chromagram for Audio/speech
+4. Spectral based feature (Centroid, bandwidth, roll-off, contrast) for Audio/speech
+5. Zero-crossing rate for Audio/speech
+6. Root mean square for Audio/speech
+7. Matrix Decomposition / Dimensional Reduction ( PCA, SVD )
+8. Chi-square (FS / Features selection)
+9. Variance based (FS / Features selection)
+10. Weight from Models / Meta-transformer (FS / Features selection)
+11. Genetic Algorithms (FS / Features selection)
+12. Particle Swarm Optimization (FS / Features selection)
+13. Grey Wolf Optimization (FS / Features selection)
+14. 
+
 ## Top Languages Programming Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaJuli&langs_count=8&layout=compact)](https://github.com/priaJuli/github-readme-stats)
 
