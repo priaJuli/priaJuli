@@ -72,7 +72,18 @@ Other Algorithms
 11. Genetic Algorithms (FS / Features selection)
 12. Particle Swarm Optimization (FS / Features selection)
 13. Grey Wolf Optimization (FS / Features selection)
-14. 
+
+## Technologies Learned
+
+Open-sources
+1. Apache Kafka
+2. Apache Spark ( Python / PySpark)
+3. Apache Airflow
+
+## Experiences in AWS
+1. Manage virtual server (EC2)
+2. S3 (Storage) Custom code implementation (Python, PHP, Java)
+3. 
 
 ## Top Languages Programming Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaJuli&langs_count=8&layout=compact)](https://github.com/priaJuli/github-readme-stats)
