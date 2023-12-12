@@ -88,5 +88,5 @@ Open-sources
 ## Top Languages Programming Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaJuli&langs_count=8&layout=compact)](https://github.com/priaJuli/github-readme-stats)
 
-<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="pria-juliade-malau-434116200" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/pria-juliade-malau-434116200?trk=profile-badge">Pria Juliade Malau</a></div>
+Visit me in LinkedIn <div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="pria-juliade-malau-434116200" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/pria-juliade-malau-434116200?trk=profile-badge">Pria Juliade Malau</a></div>
               
