@@ -21,7 +21,7 @@ I'm recently graduated from my master study in August 2023, and actively looking
 - 🌱 I'm actively writing papers and doing experiment in the field of machine learning.
 - 👯 I’m looking to collaborate on machine learning or AI projects.
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: [MyLinkedIn](https://www.linkedin.com/in/pria-juliade-malau-434116200/)
+- 📫 How to reach me: [MyLinkedIn](https://www.linkedin.com/in/priajuliademalauid/)
 - 😄 Pronouns: He/Him
 
 ## Research Interest
