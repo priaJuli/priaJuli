@@ -92,4 +92,3 @@ Open-sources
 
 Thank you for your support, it really help me because research need fund.
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'C0C31030JS');kofiwidget2.draw();</script> 
