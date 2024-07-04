@@ -88,3 +88,8 @@ Open-sources
 ## Top Languages Programming Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaJuli&langs_count=8&layout=compact)](https://github.com/priaJuli/github-readme-stats)
 
+## Support Me
+
+Thank you for your support, it really help me because research need fund.
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'C0C31030JS');kofiwidget2.draw();</script> 
