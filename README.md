@@ -32,6 +32,8 @@ I'm recently graduated from my master study in August 2023, and actively looking
 | Dicoding News Classification | News classification within category of news (submission) | No | [Link](https://github.com/priaJuli/Project-ML-Dicoding/blob/master/News_NLP_Dicoding.ipynb) |
 | Dicoding Time-Series Classification | Climate daily classification (submission) | No | [Link](https://github.com/priaJuli/Project-ML-Dicoding/blob/master/Time_series_submission_Dicoding_Climate_IDN.ipynb) |
 | Time-Scale Modification Phase Vocoder for Accent Recognition | Modification of speech speed of speech text-based for Accent Recognition | Yes | [Paper](https://ieeexplore.ieee.org/document/10295321/) |
+| Brain Tumor MRI Image Recognition | Image recognition from MRI imaging which contains virus/tumor of brain | No | No Link(private) |
+| Lung Pneumonia Image Recognition | Image recognition from MRI imaging which contains pneumonia | No | No Link(private) |
 
 ## Algorithms Experience
 
