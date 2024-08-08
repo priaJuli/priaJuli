@@ -24,7 +24,7 @@ I'm recently graduated from my master study in August 2023, and actively looking
 - 📫 How to reach me: [MyLinkedIn](https://www.linkedin.com/in/priajuliademalauid/)
 - 😄 Pronouns: He/Him
 
-## Research Interest
+## Research Activity
 
 | Projects | Description | Published | Sources |
 | --- | --- | --- | --- |
