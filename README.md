@@ -55,7 +55,8 @@ Ensemble
 1. Voting Algorithm
 2. Stacking Algorithm
 3. Random Forest
-
+4. XGBoosts
+   
 Regression
 1. Linear Regression
 2. MLP Regressor
