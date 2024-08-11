@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm recently graduated from my master study in August 2023, and actively looking for job in the field of AI or Machine Learning Engineer.
+I'm experienced developer which recently graduated from my master study in August 2023, and actively learning AI or Machine Learning. 
+I'm currently working, but open for any collaboration job in the field of AI/Machine Learning.
 
 - 🔭 I'm currently looking for job.
 - 🌱 I'm actively writing papers and doing experiment in the field of machine learning.
