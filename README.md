@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--📽️ youtube channel : 
 -->
 
 I'm experienced developer which recently graduated from my master study in August 2023, and actively learning AI or Machine Learning. 
@@ -24,6 +25,7 @@ I'm currently working, but open for any collaboration job in the field of AI/Mac
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: [MyLinkedIn](https://www.linkedin.com/in/priajuliademalauid/)
 - 😄 Pronouns: He/Him
+- 📽️ youtube channel : [@MalauResearchID](https://www.youtube.com/@MalauResearchID)
 
 ## Research Activity
 
